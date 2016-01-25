@@ -2,7 +2,7 @@
 
 ### Name : ansible-role-openapphack-{your role name}
 
-### Description : {one line role description}
+### Description : *{one line role description}*
 
 ### Openapphack project : 
-  - { openapphack github url to projects you developed this role for}
+  - *{ openapphack github url to projects you developed this role for }*
