@@ -4,6 +4,8 @@ Openapphack Ansible Roles is a list of ansible roles that can be used in any of 
 
 List of validated ansible roles that you can use in your openhack project is [here]()
 
+If you need an ansbile role for your openapphack project please follow the next set of instructions.
+
 # How to add a new ansible role to the validated list of openapphack ansible roles?
 
 You will have to follow the step given below
