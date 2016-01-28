@@ -23,7 +23,11 @@ Submit a pull request to [openapphack-ansible-roles](https://github.com/WiproOpe
 
 Mention your openapphack project github url as the project is using the new role.
 
-6 . An openapphack reviewer will try out your openapphack project and include it to the list of [validated openapphack-projects]().  All your validated ansible roles will be add to the list [here] , Similiarly if you have yoeman generators they will be include in the list [here]() 
+6 . An openapphack reviewer will try out your openapphack project and include it to the list of [validated openapphack-projects](https://github.com/WiproOpenSourcePractice/openapphack/blob/master/openapphackprojects.md).  
+ 
+ If you have contributed ansible roles to openapphack , all your validated ansible roles will be add to the list [here](https://github.com/WiproOpenSourcePractice/openapphack-ansible-roles/blob/master/validated-openapphack-ansibleroles.md) , 
+ 
+ Similiarly if you have contributed yoeman generators they will be include in the list [here](https://github.com/WiproOpenSourcePractice/openapphack-yoeman-generators/blob/master/validated-openapphack-yoeman-generators) 
 
 
 
